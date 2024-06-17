@@ -32,4 +32,4 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Tutorial Gist Link
 
-[Regex Tutorial: Matching a Email]([https://gist.github.com/nicolehekim/dc70840dbe0353459fe2d52a35dff38f])
+[Regex Tutorial: Matching an Email](https://gist.github.com/nicolehekim/dc70840dbe0353459fe2d52a35dff38f)
